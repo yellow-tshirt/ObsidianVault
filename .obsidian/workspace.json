@@ -8,23 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f3ac1f174c5a9e5",
+            "id": "028a1105040cae9d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Another Canvas.canvas",
+                "file": "Password Attacks.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -18.6,
+                  "y": 448.2600000000002,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Another Canvas"
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "81985d2dad8f2313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "username-anarchy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "username-anarchy"
+            }
+          },
+          {
+            "id": "b43c32b6a5268629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "username-anarchy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "username-anarchy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another Canvas.canvas",
+                "file": "username-anarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Another Canvas"
+              "title": "Backlinks for username-anarchy"
             }
           },
           {
@@ -116,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another Canvas.canvas",
+                "file": "username-anarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Another Canvas"
+              "title": "Outgoing links from username-anarchy"
             }
           },
           {
@@ -159,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Another Canvas.canvas",
+                "file": "username-anarchy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Another Canvas"
+              "title": "Outline of username-anarchy"
             }
           }
         ]
@@ -186,11 +215,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "3f3ac1f174c5a9e5",
+  "active": "81985d2dad8f2313",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Another Canvas.canvas",
+    "Password Attacks.canvas",
+    "username-anarchy.md",
+    "CPTS.canvas",
     "Welcome.md",
+    "this is a test.md",
     "create a link.md"
   ]
 }
