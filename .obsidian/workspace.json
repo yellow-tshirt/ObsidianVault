@@ -202,8 +202,76 @@
               "state": {
                 "file": "Password Attacks.canvas",
                 "viewState": {
-                  "x": 171.5227678571428,
-                  "y": 1092.7412500000003,
+                  "x": 0,
+                  "y": 1790,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "80e1ad21f3df799b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 1790,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "6affdf3ad8fe155c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 1790,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "4276e38408407b26",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 191.70044642857147,
+                  "y": 1821.1554464285693,
+                  "zoom": -1.1174575815481769
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "9ae4169deb993fc7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 282.5,
+                  "y": 1458.9089285714272,
                   "zoom": -1.1174575815481769
                 }
               },
@@ -212,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -374,18 +442,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "40acb2a235013a6f",
+  "active": "9ae4169deb993fc7",
   "lastOpenFiles": [
-    "Methoden/Setting up Linux Host as Pivot.md",
+    "Untitled.md",
     "Password Attacks.canvas",
+    "Methoden/Setting up Linux Host as Pivot.md",
     "CPTS.canvas",
+    "Methoden/Auf Linux nach Credentials suchen.canvas",
     "Methoden/Credentials mit grep suchen.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Nach Credentials schauen Linux.md",
     "Nach Credentials schauen.md",
     "Methoden/Auf Windows nach Credentials suchen.canvas",
-    "Methoden/Auf Linux nach Credentials suchen.canvas",
     "Methoden",
     "Tools/username-anarchy.md",
     "Untitled 1.canvas",
