@@ -32,8 +32,8 @@
               "state": {
                 "file": "Password Attacks.canvas",
                 "viewState": {
-                  "x": 327.34999999999997,
-                  "y": 652.349999999999,
+                  "x": 307.82000000000005,
+                  "y": 832.7699999999995,
                   "zoom": 0
                 }
               },
@@ -45,14 +45,85 @@
             "id": "81985d2dad8f2313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "username-anarchy.md",
-                "mode": "source",
-                "source": false
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 282.5,
+                  "y": 752.4239696969697,
+                  "zoom": -0.20226731674114
+                }
               },
-              "icon": "lucide-file",
-              "title": "username-anarchy"
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "61f26f81df44f6b0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Auf Linux nach Credentials suchen.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 195.30000000000004,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Auf Linux nach Credentials suchen"
+            }
+          },
+          {
+            "id": "6ead90c8bdf54c9f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 148.7537878787879,
+                  "y": 908.6395454545454,
+                  "zoom": -0.20226731674114
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "6605325ff6477f43",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Auf Linux nach Credentials suchen.canvas",
+                "viewState": {
+                  "x": 69.75000000000001,
+                  "y": 75,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Auf Linux nach Credentials suchen"
+            }
+          },
+          {
+            "id": "e186dbe4cbd5bae9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 240.7711818181817,
+                  "y": 991.0272121212114,
+                  "zoom": -0.20226731674114
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
             }
           },
           {
@@ -61,7 +132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "username-anarchy.md",
+                "file": "Tools/username-anarchy.md",
                 "mode": "source",
                 "source": false
               },
@@ -70,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -232,12 +303,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a507c5e6bcdc16f",
+  "active": "e186dbe4cbd5bae9",
   "lastOpenFiles": [
-    "hydra.md",
+    "Credentials mit grep suchen.md",
+    "Auf Linux nach Credentials suchen.canvas",
     "Password Attacks.canvas",
+    "Tools",
+    "Untitled.canvas",
+    "Nach Credentials schauen Linux.md",
+    "Auf Windows nach Credentials suchen.canvas",
+    "Tools/username-anarchy.md",
+    "Nach Credentials schauen.md",
+    "Tools/hydra.md",
     "CPTS.canvas",
-    "username-anarchy.md",
     "Welcome.md",
     "this is a test.md",
     "create a link.md"
