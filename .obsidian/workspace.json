@@ -64,7 +64,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Auf Linux nach Credentials suchen.canvas",
+                "file": "Methoden/Auf Linux nach Credentials suchen.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 195.30000000000004,
@@ -98,7 +98,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Auf Linux nach Credentials suchen.canvas",
+                "file": "Methoden/Auf Linux nach Credentials suchen.canvas",
                 "viewState": {
                   "x": 69.75000000000001,
                   "y": 75,
@@ -164,32 +164,55 @@
             "id": "3b19b66b3b9306d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Setting up Linux Host as Pivot.md",
-                "mode": "source",
-                "source": false
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 25.720645683808314,
+                  "y": 1489.3477605853438,
+                  "zoom": 0.011308492896630586
+                }
               },
-              "icon": "lucide-file",
-              "title": "Setting up Linux Host as Pivot"
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
             }
           },
           {
-            "id": "b43c32b6a5268629",
+            "id": "de5dfa779b6be16b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tools/username-anarchy.md",
-                "mode": "source",
-                "source": false
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": -16.73999999999996,
+                  "y": 1474.2300000000012,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "username-anarchy"
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
+            }
+          },
+          {
+            "id": "b4e65a7909ce0e1a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Password Attacks.canvas",
+                "viewState": {
+                  "x": 171.5227678571428,
+                  "y": 1092.7412500000003,
+                  "zoom": -1.1174575815481769
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Password Attacks"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -262,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting up Linux Host as Pivot.md",
+                "file": "Password Attacks.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Setting up Linux Host as Pivot"
+              "title": "Backlinks for Password Attacks"
             }
           },
           {
@@ -281,12 +304,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting up Linux Host as Pivot.md",
+                "file": "Password Attacks.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setting up Linux Host as Pivot"
+              "title": "Outgoing links from Password Attacks"
             }
           },
           {
@@ -324,13 +347,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting up Linux Host as Pivot.md",
+                "file": "Password Attacks.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting up Linux Host as Pivot"
+              "title": "Outline of Password Attacks"
             }
           }
         ]
@@ -351,21 +374,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b19b66b3b9306d7",
+  "active": "40acb2a235013a6f",
   "lastOpenFiles": [
+    "Methoden/Setting up Linux Host as Pivot.md",
     "Password Attacks.canvas",
-    "Setting up Linux Host as Pivot.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Credentials mit grep suchen.md",
-    "Auf Linux nach Credentials suchen.canvas",
-    "Tools",
-    "Nach Credentials schauen Linux.md",
-    "Auf Windows nach Credentials suchen.canvas",
-    "Tools/username-anarchy.md",
-    "Nach Credentials schauen.md",
-    "Tools/hydra.md",
     "CPTS.canvas",
+    "Methoden/Credentials mit grep suchen.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Nach Credentials schauen Linux.md",
+    "Nach Credentials schauen.md",
+    "Methoden/Auf Windows nach Credentials suchen.canvas",
+    "Methoden/Auf Linux nach Credentials suchen.canvas",
+    "Methoden",
+    "Tools/username-anarchy.md",
+    "Untitled 1.canvas",
+    "Tools",
+    "Tools/hydra.md",
     "Welcome.md",
     "this is a test.md",
     "create a link.md"
