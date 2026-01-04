@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b572d4391e166a08",
+        "id": "01836f01773fe1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "028a1105040cae9d",
+            "id": "7d187bc2b61013ea",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Password Attacks.canvas",
+                "file": "Module/Password Attacks.canvas",
                 "viewState": {
-                  "x": 192.5,
-                  "y": 330.56999999999977,
+                  "x": 125,
+                  "y": 2150,
                   "zoom": 0
                 }
               },
@@ -25,262 +25,38 @@
             }
           },
           {
-            "id": "7a507c5e6bcdc16f",
+            "id": "45f6d894f16d89c4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Password Attacks.canvas",
+                "file": "Methoden/Auf Windows nach Credentials suchen.canvas",
                 "viewState": {
-                  "x": 307.82000000000005,
-                  "y": 832.7699999999995,
+                  "x": -21,
+                  "y": -74,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
+              "title": "Auf Windows nach Credentials suchen"
             }
           },
           {
-            "id": "81985d2dad8f2313",
+            "id": "3b529e50f8fc059f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 282.5,
-                  "y": 752.4239696969697,
-                  "zoom": -0.20226731674114
-                }
+                "file": "Tools/Snaffler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "61f26f81df44f6b0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Methoden/Auf Linux nach Credentials suchen.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 195.30000000000004,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Auf Linux nach Credentials suchen"
-            }
-          },
-          {
-            "id": "6ead90c8bdf54c9f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 148.7537878787879,
-                  "y": 908.6395454545454,
-                  "zoom": -0.20226731674114
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "6605325ff6477f43",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Methoden/Auf Linux nach Credentials suchen.canvas",
-                "viewState": {
-                  "x": 69.75000000000001,
-                  "y": 75,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Auf Linux nach Credentials suchen"
-            }
-          },
-          {
-            "id": "e186dbe4cbd5bae9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 203.3222424242423,
-                  "y": 1655.4783939393956,
-                  "zoom": -0.20226731674114
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "0bda1ac7e43b4d4e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 159.02999999999975,
-                  "y": 1715.1,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "2ec704986c44682f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 1790,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "3b19b66b3b9306d7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 25.720645683808314,
-                  "y": 1489.3477605853438,
-                  "zoom": 0.011308492896630586
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "de5dfa779b6be16b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": -16.73999999999996,
-                  "y": 1474.2300000000012,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "b4e65a7909ce0e1a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 1790,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "80e1ad21f3df799b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 1790,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "6affdf3ad8fe155c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 1790,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "4276e38408407b26",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 191.70044642857147,
-                  "y": 1821.1554464285693,
-                  "zoom": -1.1174575815481769
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
-            }
-          },
-          {
-            "id": "9ae4169deb993fc7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Password Attacks.canvas",
-                "viewState": {
-                  "x": 282.5,
-                  "y": 1458.9089285714272,
-                  "zoom": -1.1174575815481769
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Password Attacks"
+              "icon": "lucide-file",
+              "title": "Snaffler"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Attacks.canvas",
+                "file": "Methoden/Auf Windows nach Credentials suchen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Password Attacks"
+              "title": "Backlinks for Auf Windows nach Credentials suchen"
             }
           },
           {
@@ -372,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Attacks.canvas",
+                "file": "Methoden/Auf Windows nach Credentials suchen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Password Attacks"
+              "title": "Outgoing links from Auf Windows nach Credentials suchen"
             }
           },
           {
@@ -415,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Attacks.canvas",
+                "file": "Methoden/Auf Windows nach Credentials suchen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Password Attacks"
+              "title": "Outline of Auf Windows nach Credentials suchen"
             }
           }
         ]
@@ -442,23 +218,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ae4169deb993fc7",
+  "active": "45f6d894f16d89c4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Password Attacks.canvas",
+    "Tools/Snaffler.md",
+    "Methoden/Auf Windows nach Credentials suchen.canvas",
+    "Module/Password Attacks.canvas",
+    "Methoden/File Transfer Methods/Untitled.md",
     "Methoden/Setting up Linux Host as Pivot.md",
-    "CPTS.canvas",
+    "Methoden/File Transfer Methods",
+    "Methoden/Untitled.md",
+    "Module/File Transfers.canvas",
+    "Methoden/Setting up Windows Host as a pivot.md",
+    "Untitled.md",
+    "Module",
     "Methoden/Auf Linux nach Credentials suchen.canvas",
+    "Tools/ nxc.md",
+    "netexec ",
+    "Tools/hydra.md",
+    "CPTS.canvas",
     "Methoden/Credentials mit grep suchen.md",
-    "Untitled.canvas",
     "Nach Credentials schauen Linux.md",
     "Nach Credentials schauen.md",
-    "Methoden/Auf Windows nach Credentials suchen.canvas",
     "Methoden",
     "Tools/username-anarchy.md",
     "Untitled 1.canvas",
     "Tools",
-    "Tools/hydra.md",
     "Welcome.md",
     "this is a test.md",
     "create a link.md"
