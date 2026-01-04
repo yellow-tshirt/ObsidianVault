@@ -9,8 +9,13 @@ cat << EOF > hosts
 EOF
 ```
 
-try connecting
+## 2. try connecting
 
 ```
 nxc <protocol> hosts -u hwilliam -p 'dealer-screwed-gym1'
+```
+
+# Enumerating SMB Network Shares
+```
+nxc smb hosts -u hwilliam -p 'dealer-screwed-gym1' --shares
 ```
