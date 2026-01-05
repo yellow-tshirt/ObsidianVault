@@ -1,1 +1,9 @@
-{}
+{
+	"nodes":[
+		{"id":"b1d6b78bee9c20bf","x":-179,"y":-162,"width":250,"height":60,"type":"text","text":"Services"},
+		{"id":"bd9767cef8bbca76","x":-400,"y":0,"width":250,"height":60,"type":"text","text":"[[SMB]]"}
+	],
+	"edges":[
+		{"id":"e9d9e08eb1694065","fromNode":"b1d6b78bee9c20bf","fromSide":"bottom","toNode":"bd9767cef8bbca76","toSide":"top"}
+	]
+}

@@ -42,6 +42,23 @@
             "id": "f64e5fc0b1ed9dc0",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Module/Attacking Common Services/Attacking Common Services.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 316.2,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Attacking Common Services"
+            }
+          },
+          {
+            "id": "7cc3679ea9b72f1f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Module/Attacking Common Services/SMB.md",
@@ -143,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -302,12 +319,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f64e5fc0b1ed9dc0",
+  "active": "40acb2a235013a6f",
   "lastOpenFiles": [
-    "Methoden/Auf Windows nach Credentials suchen.canvas",
-    "Module/Attacking Common Services/SMB.md",
-    "Module/Password Attacks.canvas",
+    "Images/Pasted image 20260106002512.png",
     "Module/Attacking Common Services/Attacking Common Services.canvas",
+    "Module/Attacking Common Services/SMB.md",
+    "Methoden/Auf Windows nach Credentials suchen.canvas",
+    "Module/Password Attacks.canvas",
     "Module/Attacking Common Services",
     "CPTS.canvas",
     "Images/Pasted image 20260104141056.png",
