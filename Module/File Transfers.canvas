@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"e81e6db3cb5a2b6a","x":-420,"y":-320,"width":250,"height":60,"type":"text","text":"Transfer to Linux"},
-		{"id":"827e20c80b631397","x":-580,"y":-210,"width":250,"height":60,"type":"text","text":"From Linux"},
+		{"id":"e81e6db3cb5a2b6a","type":"text","text":"Transfer to Linux","x":-420,"y":-320,"width":250,"height":60},
+		{"id":"827e20c80b631397","type":"text","text":"From Linux","x":-580,"y":-210,"width":250,"height":60},
 		{"id":"ab5fdea120829f3a","type":"text","text":"From Linux","x":-260,"y":-210,"width":250,"height":60},
 		{"id":"e9f37a03cfeff2c9","type":"text","text":"Transfer to Windows","x":320,"y":-320,"width":250,"height":60},
-		{"id":"b191ce6430ec9c1b","type":"text","text":"From Linux\n[[Transfer from Linux to Windows]]","x":160,"y":-210,"width":250,"height":60},
+		{"id":"b191ce6430ec9c1b","type":"text","text":"From Linux\n[[Transfer from Linux to Windows]]","x":160,"y":-210,"width":250,"height":90},
 		{"id":"8ca47428f4a7a02c","type":"text","text":"From Linux","x":480,"y":-210,"width":250,"height":60},
 		{"id":"d785754d7862672d","type":"text","text":"Start","x":-40,"y":-460,"width":250,"height":60}
 	],

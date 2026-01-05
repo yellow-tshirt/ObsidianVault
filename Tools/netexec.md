@@ -16,6 +16,12 @@ nxc <protocol> hosts -u hwilliam -p 'dealer-screwed-gym1'
 ```
 
 # Enumerating SMB Network Shares
+# 1 try smb
 ```
 nxc smb hosts -u hwilliam -p 'dealer-screwed-gym1' --shares
 ```
+
+## 2 try all other protocols over all hosts
+- winrm
+- rdp
+- 
