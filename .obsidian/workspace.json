@@ -59,14 +59,31 @@
             "id": "7cc3679ea9b72f1f",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Module/Attacking Common Services/Attacking Common Services.canvas",
+                "viewState": {
+                  "x": -164.5,
+                  "y": 268.91999999999996,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Attacking Common Services"
+            }
+          },
+          {
+            "id": "503b07cd67da94cd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Module/Attacking Common Services/SMB.md",
+                "file": "Module/Attacking Common Services/Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "Email"
             }
           },
           {
@@ -160,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -321,26 +338,29 @@
   },
   "active": "40acb2a235013a6f",
   "lastOpenFiles": [
-    "Images/Pasted image 20260106002512.png",
+    "Module/Attacking Common Services/Email.md",
     "Module/Attacking Common Services/Attacking Common Services.canvas",
     "Module/Attacking Common Services/SMB.md",
-    "Methoden/Auf Windows nach Credentials suchen.canvas",
+    "Module/File Transfers.canvas",
     "Module/Password Attacks.canvas",
+    "Tools/Cracking psafe3 files.md",
+    "Tools/hydra.md",
+    "Tools/username-anarchy.md",
+    "Tools/Snaffler.md",
+    "Tools/smbclient.md",
+    "Tools/netexec.md",
+    "Tools/mimikatz.md",
+    "Images/Pasted image 20260106002512.png",
+    "Methoden/Auf Windows nach Credentials suchen.canvas",
     "Module/Attacking Common Services",
     "CPTS.canvas",
     "Images/Pasted image 20260104141056.png",
     "Images",
     "Scratch.md",
-    "Module/File Transfers.canvas",
     "Methoden/Pass the hash.md",
-    "Tools/mimikatz.md",
     "nxc.md",
-    "Tools/Snaffler.md",
     "Methoden/File Transfer Methods/Transfer from Linux to Windows.md",
-    "Tools/netexec.md",
-    "Tools/smbclient.md",
     "Methoden/Setting up Linux Host as Pivot.md",
-    "Tools/Cracking psafe3 files.md",
     "Tools/nxc.md",
     "Methoden/Auf Linux nach Credentials suchen.canvas",
     "Untitled.canvas",
@@ -350,12 +370,10 @@
     "Methoden/Setting up Windows Host as a pivot.md",
     "Module",
     "netexec ",
-    "Tools/hydra.md",
     "Methoden/Credentials mit grep suchen.md",
     "Nach Credentials schauen Linux.md",
     "Nach Credentials schauen.md",
     "Methoden",
-    "Tools/username-anarchy.md",
     "Untitled 1.canvas",
     "Tools",
     "Welcome.md",

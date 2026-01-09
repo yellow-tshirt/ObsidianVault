@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"b1d6b78bee9c20bf","x":-179,"y":-162,"width":250,"height":60,"type":"text","text":"Services"},
-		{"id":"bd9767cef8bbca76","x":-400,"y":0,"width":250,"height":60,"type":"text","text":"[[SMB]]"}
+		{"id":"b1d6b78bee9c20bf","type":"text","text":"Services","x":-179,"y":-162,"width":250,"height":60},
+		{"id":"eb806eb8f80098fd","x":-182,"y":97,"width":250,"height":60,"type":"text","text":"File Sharing"},
+		{"id":"bd9767cef8bbca76","type":"text","text":"[[SMB]]","x":-460,"y":240,"width":250,"height":60},
+		{"id":"a8584bfbb246a1d6","x":-188,"y":267,"width":250,"height":60,"type":"text","text":"[[Email]]"}
 	],
 	"edges":[
-		{"id":"e9d9e08eb1694065","fromNode":"b1d6b78bee9c20bf","fromSide":"bottom","toNode":"bd9767cef8bbca76","toSide":"top"}
+		{"id":"e9d9e08eb1694065","fromNode":"b1d6b78bee9c20bf","fromSide":"bottom","toNode":"eb806eb8f80098fd","toSide":"top"},
+		{"id":"bf65293ad24ead8e","fromNode":"eb806eb8f80098fd","fromSide":"bottom","toNode":"bd9767cef8bbca76","toSide":"top"}
 	]
 }
