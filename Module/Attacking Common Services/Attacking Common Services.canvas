@@ -1,12 +1,38 @@
 {
 	"nodes":[
 		{"id":"b1d6b78bee9c20bf","type":"text","text":"Services","x":-179,"y":-162,"width":250,"height":60},
-		{"id":"eb806eb8f80098fd","x":-182,"y":97,"width":250,"height":60,"type":"text","text":"File Sharing"},
-		{"id":"bd9767cef8bbca76","type":"text","text":"[[SMB]]","x":-460,"y":240,"width":250,"height":60},
-		{"id":"a8584bfbb246a1d6","x":-188,"y":267,"width":250,"height":60,"type":"text","text":"[[Email]]"}
+		{"id":"bd9767cef8bbca76","type":"text","text":"[[Module/Attacking Common Services/SMB]]","x":-460,"y":240,"width":250,"height":60},
+		{"id":"a8584bfbb246a1d6","type":"text","text":"[[Email]]","x":-179,"y":240,"width":250,"height":60},
+		{"id":"a9eff71edbfa70e0","type":"file","file":"Pasted image 20260110101858.png","x":-660,"y":580,"width":399,"height":230},
+		{"id":"25d0797c315b0c04","type":"text","text":"Concept of Attacks","x":-585,"y":380,"width":250,"height":60},
+		{"id":"32f9a43506281dfc","type":"text","text":"Examples","x":-179,"y":-20,"width":250,"height":60},
+		{"id":"28fb42dfa989e6b4","type":"text","text":"[[DB]]","x":119,"y":240,"width":250,"height":60},
+		{"id":"0eef1cceab431270","type":"file","file":"Pasted image 20260110101647.png","x":-1765,"y":-162,"width":399,"height":316},
+		{"id":"14d767fda5c1819b","type":"file","file":"Pasted image 20260110101545.png","x":-985,"y":-162,"width":400,"height":318},
+		{"id":"757a23475ea490c6","type":"text","text":"Misconfigurations","x":440,"y":-132,"width":250,"height":60},
+		{"id":"313d4fdc43a8b13f","type":"text","text":"Defaults Credentials","x":776,"y":-192,"width":250,"height":60},
+		{"id":"660cc0f988546033","type":"text","text":"Anonymous Auth","x":776,"y":-102,"width":250,"height":60},
+		{"id":"e3b61c4d6baa56be","type":"text","text":"Missonconfigured Access rights","x":776,"y":21,"width":250,"height":60},
+		{"id":"2ef62b68f15efb5c","type":"text","text":"Unnecessairy Default","x":776,"y":129,"width":250,"height":60},
+		{"id":"ea5451d2629e74f7","type":"text","text":"Attacking","x":-180,"y":-361,"width":250,"height":60},
+		{"id":"111a98507e5823b5","type":"text","text":"[[FTP]]","x":-410,"y":-562,"width":250,"height":60},
+		{"id":"272748ef6ff78d45","type":"text","text":"[[Module/Attacking Common Services/Service Attacks/SMB|SMB]]","x":-154,"y":-593,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"e9d9e08eb1694065","fromNode":"b1d6b78bee9c20bf","fromSide":"bottom","toNode":"eb806eb8f80098fd","toSide":"top"},
-		{"id":"bf65293ad24ead8e","fromNode":"eb806eb8f80098fd","fromSide":"bottom","toNode":"bd9767cef8bbca76","toSide":"top"}
+		{"id":"919dd19ecc158259","fromNode":"32f9a43506281dfc","fromSide":"bottom","toNode":"28fb42dfa989e6b4","toSide":"top"},
+		{"id":"ceb0bf13de89169a","fromNode":"32f9a43506281dfc","fromSide":"left","toNode":"14d767fda5c1819b","toSide":"right","label":"Interaction Overview"},
+		{"id":"11076f7a50ce8f77","fromNode":"14d767fda5c1819b","fromSide":"left","toNode":"0eef1cceab431270","toSide":"right","label":"no access ? check\n\n"},
+		{"id":"e8f4c25fcd086718","fromNode":"bd9767cef8bbca76","fromSide":"top","toNode":"32f9a43506281dfc","toSide":"bottom"},
+		{"id":"2edc792538d35d00","fromNode":"a8584bfbb246a1d6","fromSide":"top","toNode":"32f9a43506281dfc","toSide":"bottom"},
+		{"id":"f0c2f9f4d2a6b543","fromNode":"25d0797c315b0c04","fromSide":"bottom","toNode":"a9eff71edbfa70e0","toSide":"top"},
+		{"id":"bb16a39dc4891918","fromNode":"b1d6b78bee9c20bf","fromSide":"bottom","toNode":"32f9a43506281dfc","toSide":"top"},
+		{"id":"93d14bcc66b76401","fromNode":"b1d6b78bee9c20bf","fromSide":"right","toNode":"757a23475ea490c6","toSide":"left"},
+		{"id":"a003386e5a578847","fromNode":"757a23475ea490c6","fromSide":"right","toNode":"313d4fdc43a8b13f","toSide":"left"},
+		{"id":"28e6ef6336f68919","fromNode":"757a23475ea490c6","fromSide":"right","toNode":"660cc0f988546033","toSide":"left"},
+		{"id":"fd87a2451cd16112","fromNode":"757a23475ea490c6","fromSide":"right","toNode":"e3b61c4d6baa56be","toSide":"left"},
+		{"id":"0ec0c7bb9c638035","fromNode":"757a23475ea490c6","fromSide":"right","toNode":"2ef62b68f15efb5c","toSide":"left"},
+		{"id":"7b0d8350bd071774","fromNode":"b1d6b78bee9c20bf","fromSide":"top","toNode":"ea5451d2629e74f7","toSide":"bottom"},
+		{"id":"3cb9d2d3102ef180","fromNode":"ea5451d2629e74f7","fromSide":"top","toNode":"111a98507e5823b5","toSide":"bottom"},
+		{"id":"5e94a64af45d88f7","fromNode":"ea5451d2629e74f7","fromSide":"top","toNode":"272748ef6ff78d45","toSide":"bottom"}
 	]
 }
