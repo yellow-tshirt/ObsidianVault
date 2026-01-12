@@ -221,9 +221,43 @@
               "state": {
                 "file": "Module/Attacking Common Services/Service Attacks/SMB.canvas",
                 "viewState": {
-                  "x": 109.7173685238132,
-                  "y": 655.463691726929,
-                  "zoom": -0.9527390391798664
+                  "x": 920.3189497023775,
+                  "y": 1019.4591556689392,
+                  "zoom": -1.2121140391798666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "SMB"
+            }
+          },
+          {
+            "id": "b50a3780d7b3f620",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Module/Attacking Common Services/Attacking Common Services.canvas",
+                "viewState": {
+                  "x": 74.16560534653914,
+                  "y": -184.30120019176144,
+                  "zoom": -0.44216464124093996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Attacking Common Services"
+            }
+          },
+          {
+            "id": "37d3cfe1afb9343b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Module/Attacking Common Services/Service Attacks/SMB.canvas",
+                "viewState": {
+                  "x": 1391.5,
+                  "y": 2470,
+                  "zoom": -0.09856383448358953
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -262,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -421,15 +455,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c6876a57fbfba6a",
+  "active": "37d3cfe1afb9343b",
   "lastOpenFiles": [
+    "Module/Attacking Common Services/Attacking Common Services.canvas",
+    "Module/Attacking Common Services/Service Attacks/SMB.canvas",
+    "Module/Attacking Common Services/Service Attacks/FTP.canvas",
+    "Tools/Responder.md",
     "Tools/Snaffler.md",
     "Tools/Crackmap Password Spraying.md",
-    "Module/Attacking Common Services/Service Attacks/SMB.canvas",
-    "Module/Attacking Common Services/Attacking Common Services.canvas",
     "Module/File Transfers.canvas",
     "Module/Password Attacks.canvas",
-    "Module/Attacking Common Services/Service Attacks/FTP.canvas",
     "Methoden/Auf Windows nach Credentials suchen.canvas",
     "Module/Attacking Common Services/Service Attacks/SMB.md",
     "Module/Attacking Common Services/Service Attacks/FTP.md",
@@ -469,7 +504,6 @@
     "Module",
     "netexec ",
     "Methoden/Credentials mit grep suchen.md",
-    "Nach Credentials schauen Linux.md",
     "Methoden",
     "Tools"
   ]
